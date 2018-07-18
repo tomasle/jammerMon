@@ -1,3 +1,7 @@
+# Spoiler Alert
+This is a simplification fork for Transportation engineers. Bells and whistles are removed
+
+
 # Jammer Monitor
 
 This monitor is primarily built to receive a stream of Ublox messages from the EVK-8N device.
